@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .politicians{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+  }
+  .corporations{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+  }
+  
+  .pacs{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+  }
